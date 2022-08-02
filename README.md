@@ -4,6 +4,9 @@ Azuracast Youtube Live stream with PHP cover example
 **Instalation**
 
 ```
+sudo apt-get update
+sudo apt-get install php php-gd php-curl ffmpeg
+
 sudo chmod +x cover.sh
 sudo nano /etc/systemd/system/cover.service
 
