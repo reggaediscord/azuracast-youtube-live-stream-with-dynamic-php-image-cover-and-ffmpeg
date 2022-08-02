@@ -1,5 +1,5 @@
-# azuracast-youtube-live-stream-with-dynamic-php-cover-and-ffmpeg
-Azuracast Youtube Live stream with dynamic PHP cover and ffmpeg example
+# azuracast-youtube-live-stream-with-dynamic-php-image-cover-and-ffmpeg
+Azuracast Youtube Live stream with dynamic PHP image cover and ffmpeg example
 
 **Instalation**
 
