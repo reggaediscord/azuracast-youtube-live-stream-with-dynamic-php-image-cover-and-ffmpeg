@@ -1,7 +1,10 @@
 # azuracast-youtube-live-stream-with-php-cover
 Azuracast Youtube Live stream with PHP cover example
 
+**Instalation**
 
+```
+sudo chmod +x cover.sh
 sudo nano /etc/systemd/system/cover.service
 
 [Unit]
@@ -17,3 +20,4 @@ RestartSec=1
 Restart=always
 [Install]
 WantedBy=multi-user.target
+```
